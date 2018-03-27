@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-27T01:04:47.409Z</updated>
+  <updated>2018-03-27T02:27:04.221Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://yoursite.com/2018/03/27/hello-world/"/>
     <id>http://yoursite.com/2018/03/27/hello-world/</id>
     <published>2018-03-26T16:00:00.000Z</published>
-    <updated>2018-03-27T01:04:47.409Z</updated>
+    <updated>2018-03-27T02:27:04.221Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="2018-03-27"><a href="#2018-03-27" class="headerlink" title="2018-03-27"></a>2018-03-27</h1><p><strong>√</strong>博客建立成功。<br><strong>√</strong>选择主题:next-Pisces；<br><strong>√</strong>添加头像，更换网站favicon；<br><strong>√</strong>更换背景图片；<br><strong>√</strong>添加背景动画：three；<br><strong>√</strong>添加鼠标动画；</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="2018-03-27"><a href="#2018-03-27" class="headerlink" title="2018-03-27"></a>2018-03-27</h1><p><strong>√</strong>博客建立成功。<br><strong>√</strong>选择主题:next-Pisces；<br><strong>√</strong>添加头像，更换网站favicon；<br><strong>√</strong>更换背景图片；<br><strong>√</strong>添加背景动画：three；<br><strong>√</strong>添加鼠标点击动画：fireworks；</p>]]></content>
     
     <summary type="html">
     
@@ -34,7 +34,7 @@
     
     </summary>
     
-      <category term="Blog Update" scheme="http://yoursite.com/categories/Blog-Update/"/>
+      <category term="博客更新" scheme="http://yoursite.com/categories/%E5%8D%9A%E5%AE%A2%E6%9B%B4%E6%96%B0/"/>
     
     
   </entry>
