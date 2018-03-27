@@ -112,6 +112,8 @@
 <meta name="twitter:description" content="“纤纤不绝林薄成，涓涓不止江河生。事之毫髪无谓轻，虑远防微乃不倾。” ——南北朝·庾信">
 
 
+  
+
 
   <link rel="alternate" href="/atom.xml" title="观江不语" type="application/atom+xml" />
 
@@ -637,15 +639,15 @@
   <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
    <script type="text/javascript">
         var gitalk = new Gitalk({
-          clientID: '',
-          clientSecret: '',
-          repo: 'nocease.github.io',
-          owner: 'nocease',
-          admin: 'nocease', 
+          clientID: ' theme.gitalk.ClientID ',
+          clientSecret: ' theme.gitalk.ClientSecret ',
+          repo: ' theme.gitalk.repo ',
+          owner: ' theme.gitalk.githubID ',
+          admin: [' theme.gitalk.adminUser '], 
           id: location.pathname,
           distractionFreeMode: true
           })
-          
+
         gitalk.render('gitalk-container')           
        </script>
 
