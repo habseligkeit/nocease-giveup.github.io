@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>观 江 不 语</title>
+  
+  <subtitle>纤纤不绝林薄成，涓涓不止江河生。事之毫髪无谓轻，虑远防微乃不倾。 ————南北朝·庾信</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-03-27T01:04:47.409Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>林薄成</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“观江不语”更新记录</title>
+    <link href="http://yoursite.com/2018/03/27/hello-world/"/>
+    <id>http://yoursite.com/2018/03/27/hello-world/</id>
+    <published>2018-03-26T16:00:00.000Z</published>
+    <updated>2018-03-27T01:04:47.409Z</updated>
+    
+    <content type="html"><![CDATA[<html><head></head><body><h1 id="2018-03-27"><a href="#2018-03-27" class="headerlink" title="2018-03-27"></a>2018-03-27</h1><p><strong>&#x221A;</strong>&#x535A;&#x5BA2;&#x5EFA;&#x7ACB;&#x6210;&#x529F;&#x3002;<br><strong>&#x221A;</strong>&#x9009;&#x62E9;&#x4E3B;&#x9898;:next-Pisces&#xFF1B;<br><strong>&#x221A;</strong>&#x6DFB;&#x52A0;&#x5934;&#x50CF;&#xFF0C;&#x66F4;&#x6362;&#x7F51;&#x7AD9;favicon&#xFF1B;<br><strong>&#x221A;</strong>&#x66F4;&#x6362;&#x80CC;&#x666F;&#x56FE;&#x7247;&#xFF1B;<br><strong>&#x221A;</strong>&#x6DFB;&#x52A0;&#x80CC;&#x666F;&#x52A8;&#x753B;&#xFF1A;three&#xFF1B;<br><strong>&#x221A;</strong>&#x6DFB;&#x52A0;&#x9F20;&#x6807;&#x52A8;&#x753B;&#xFF1B;</p><script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({"model":"wanko","bottom":-30});</script></body></html>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h1 id=&quot;2018-03-27&quot;&gt;&lt;a href=&quot;#2018-03-27&quot; class=&quot;headerlink&quot; title=&quot;2018-03-27&quot;&gt;&lt;/a&gt;2018-03-27&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;&amp;#x22
+      
+    
+    </summary>
+    
+      <category term="Blog Update" scheme="http://yoursite.com/categories/Blog-Update/"/>
+    
+    
+  </entry>
+  
+</feed>
