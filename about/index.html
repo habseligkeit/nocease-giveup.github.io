@@ -112,6 +112,8 @@
 <meta name="twitter:description" content="咚咚咚！欢迎光临！这里是博客观江不语，博主林薄成，名字源自南北朝庾信的诗句：  纤纤不绝林薄成，涓涓不止江河生。事之毫髪无谓轻，虑远防微乃不倾。   前言&amp;emsp;&amp;emsp;首先，我是个学生，这个和年纪、上不上学无关，就是到了七老八十，我还是个学生。&amp;emsp;&amp;emsp;其次，博客建立之初我学得很差，所以早期的博客内容质量会很低，且缺乏知识水准和创意，所以请慎入。&amp;emsp;&amp;emsp;最后">
 
 
+  
+
 
   <link rel="alternate" href="/atom.xml" title="观江不语" type="application/atom+xml" />
 
@@ -699,21 +701,25 @@
 
 
 
-  <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-  
-  <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
-   <script type="text/javascript">
-        var gitalk = new Gitalk({
-          clientID: '',
-          clientSecret: '',
-          repo: 'nocease.github.io',
-          owner: 'nocease',
-          admin: 'nocease', 
-          id: location.pathname,
-          distractionFreeMode: 'true'
-        })
-        gitalk.render('gitalk-container')           
-       </script>
+
+
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script src="https://cdn.bootcss.com/blueimp-md5/2.10.0/js/md5.js"></script>
+<script type="text/javascript">
+const gitalk = new Gitalk({
+clientID: '9c9697d3cbbc7a806099',
+clientSecret: '4119e019a14a6eedef985741e66e0a147fa6eb6e',
+repo: 'nocease.github.io',
+owner: 'nocease',
+admin: ''.split(','),
+pagerDirection: '',
+id: md5(window.location.pathname),
+distractionFreeMode: false
+})
+gitalk.render('gitalk-container')
+</script>
+
+
 
 
   
