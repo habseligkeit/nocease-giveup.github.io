@@ -105,7 +105,7 @@
 <meta property="og:site_name" content="观江不语">
 <meta property="og:locale" content="zh-CN">
 <meta property="og:image" content="https://i.imgur.com/DDtNv0O.jpg">
-<meta property="og:updated_time" content="2018-03-28T07:11:18.149Z">
+<meta property="og:updated_time" content="2018-03-28T07:28:53.885Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="吾家有博初建成">
 <meta name="twitter:image" content="https://i.imgur.com/DDtNv0O.jpg">
@@ -391,9 +391,9 @@
 <hr>
 <h1 id="博客更新日志"><a href="#博客更新日志" class="headerlink" title="博客更新日志"></a><blockquote class="blockquote-center">博客更新日志</blockquote></h1><h2 id="2018-03-28"><a href="#2018-03-28" class="headerlink" title="2018/03/28"></a>2018/03/28</h2><ol>
 <li>加入作者版权信息，这个直接将主题的配置文件<code>_config.yml</code>中<code>post_copyright</code>改为<code>true</code>就好。</li>
-<li>修改超链接颜色为蓝色，文件<code>next\source\css\_variables\base.styl</code>，其他颜色修改也在该文件下。</li>
+<li>修改超链接颜色和文中代码颜色，文件<code>next\source\css\_variables\base.styl</code>，其他颜色修改也在该文件下。（遗留问题：sidebar处颜色没有修改）</li>
 <li>在网站底部添加了访问统计量：<a href="http://ibruce.info/2015/04/04/busuanzi/" target="_blank" rel="noopener">不蒜子统计</a>（遗留问题：换行）</li>
-<li></li>
+<li>头像优化，圆形、旋转，文件<code>next\source\css\_common\components\sidebar\sidebar-author.styl</code></li>
 </ol>
 <hr>
 <h1 id="遇到的主要问题"><a href="#遇到的主要问题" class="headerlink" title="遇到的主要问题"></a>遇到的主要问题</h1><h2 id="1-无法部署到Github"><a href="#1-无法部署到Github" class="headerlink" title="1.无法部署到Github"></a>1.无法部署到Github</h2><p>&emsp;&emsp;我先后三次建博，前两次均应无法成功部署失败，主要表现在<code>hexo s</code>命令后，localhost:4000会显示我的更改，但<code>hexo g -d</code>却一直失败。这个问题有非常多的引发情况，我前两次建博用cmder输入命令，发现到后来很多更改无法部署，第三次建博，全部使用gitbash，这种情况再也没有出现过。</p>
@@ -887,7 +887,8 @@ Total <span id="busuanzi_value_site_uv"></span> views.
       <canvas class="fireworks" style="position: fixed;left: 0;top: 0;z-index: 1; pointer-events: none;" ></canvas> 
       <script type="text/javascript" src="//cdn.bootcss.com/animejs/2.2.0/anime.min.js"></script> 
       <script type="text/javascript" src="/js/src/fireworks.js"></script>
-
   
+  <!--卖萌-->
+<script type="text/javascript" src="/js/src/dytitle.js"></script>
 <script src="/live2dw/lib/L2Dwidget.min.js?0c58a1486de42ac6cc1c59c7d98ae887"></script><script>L2Dwidget.init({"model":{"jsonPath":"/live2dw/assets/haruto.model.json"},"display":{"position":"right","width":90,"height":140},"mobile":{"show":true}});</script></body>
 </html>
